@@ -1,0 +1,28 @@
+
+body {
+    background-color: khaki;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+}
+
+.par {
+    color: chartreuse;
+}
+
+#para {
+    color: chocolate;
+    text-align: justify;
+    font-size: 25px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
